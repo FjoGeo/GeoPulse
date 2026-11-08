@@ -1,2 +1,6 @@
 .venv
 .venv/*
+notes.md
+.git/
+.git
+.git/*
