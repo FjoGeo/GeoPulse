@@ -1,6 +1,11 @@
-Plan: - Python Skript für Daten - Airflow für Automation - Transform: Uses Pydantic - Load: Bulk-inserts the data into PostGIS efficiently using async database drivers (asyncpg or SQLAlchemy async)
+Plan:  
+    [] Airflow für Automation 
+    [] Transform: Uses Pydantic 
+    [] Load: Bulk-inserts the data into PostGIS efficiently using async database drivers (asyncpg or SQLAlchemy async)
 
 ---
+
+Step 2: Airflow automation
 
 Step 3: The FastAPI Application (OGC API alignment)
 
